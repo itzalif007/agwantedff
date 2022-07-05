@@ -27,9 +27,6 @@ pro cloner
 ✳️ cd Luxury
 ✳️ python2 Luxury.py
 
-      ✳️USERNAME :??? 
-      ✳️PASSWORD :??? 
-
 💚Thank you For Using My Tools💚
 
 ```
