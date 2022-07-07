@@ -1,5 +1,14 @@
-import os, sys
+import os, platform
 try:
-    __import__("Luxury").__niki____()
-except Exception as e:
-    exit(str(e))
+    import requests
+except:
+    os.system('pip2 install requests')
+
+import requests
+bit = platform.architecture()[0]
+if bit == '64bit':
+    from rando import menu
+    menu()
+elif bit == '32bit':
+    from rando import menu
+    menu()
