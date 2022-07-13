@@ -20,14 +20,17 @@ pro cloner
 ✳️ pkg upgrade
 ✳️ pkg install python
 ✳️ pkg install python2
-✳️ pip2 install requests
-✳️ pip2 install mechanize
+✳️ pip install requests
+✳️ pip install mechanize
+✳️ pip install bs4
 ✳️ pkg install git
 ✳️ git clone https://github.com/Niki404-Cyber/Luxury
 ✳️ cd Luxury
-✳️ python2 Luxury.py
+✳️ git pull
+✳️ python Luxury.py
 
-💚Thank you For Using My Tools💚
+Note: (This Tools Are Free, So You No Need Permission To Use NIKI BD-CRACK Tools Enjoy)</br>
+
 
 ```
 
