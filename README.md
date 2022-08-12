@@ -23,13 +23,14 @@ $ pkg install python2
 $ pip install requests
 $ pip install mechanize
 $ pip install bs4
+$ pip install rich
 $ pkg install git
+$ rm -rf Luxury
 $ git clone https://github.com/Niki404-Cyber/Luxury
 $ cd Luxury
-$ git pull
 $ python Luxury.py
 
-Note: (This Tools Are Free, So You No Need Permission To Use NIKI BD-CRACK Tools Enjoy)
+Note: (This Tools Are Paid, So You Need Permission To Use Niki Luxury Tools Enjoy)
 
 
 ```
@@ -37,9 +38,9 @@ Note: (This Tools Are Free, So You No Need Permission To Use NIKI BD-CRACK Tools
 # Single Command 
 
 ```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize; pkg install git ; git clone https://github.com/Niki404-Cyber/Luxury.git ; cd Luxury; python Luxury.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize; pip install bs4, pkg install git ; git clone https://github.com/Niki404-Cyber/Luxury.git ; cd Luxury; python Luxury.py
 
-Note: (This Tools Are Free, So You No Need Permission To Use NIKI BD-CRACK Tools Enjoy)
+Note: (This Tools Are Paid, So You Need Permission To Use Niki Luxury Tools Enjoy)
 
 ```
 
