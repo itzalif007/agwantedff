@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("Luxury").__niki____()
+    __import__("luxx").__niki____()
 except Exception as e:
     exit(str(e))
