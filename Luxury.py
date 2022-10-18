@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("luxx").__niki____()
+    __import__("lux").menu()
 except Exception as e:
     exit(str(e))
