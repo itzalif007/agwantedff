@@ -1,14 +1,5 @@
-import os, platform
+import os, sys
 try:
-    import requests
-except:
-    os.system('pip2 install requests')
-
-import requests
-bit = platform.architecture()[0]
-if bit == '64bit':
-    from rank import __niki____()
-    __niki____()
-elif bit == '32bit':
-    from rank import __niki____()
-    __niki____()
+    __import__("vivo").__niki____()
+except Exception as e:
+    exit(str(e))
