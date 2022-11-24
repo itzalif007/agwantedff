@@ -6,11 +6,11 @@ pro cloner
 
 <h2 align="center"> ADMIN : Mr.NIKI</h2>
 
-<h3 align="center"> LOGIN WITH USERNAME & PASSWORD</h3>
+<h3 align="center"> ADMIN APPROVAL NEED</h3>
 
-<h4 align="center"> INDIAN FACEBOOK ID CLONE</h4>
+<h4 align="center"> OTHERS COUNTRY FACEBOOK ID CLONE</h4>
 
-<h5 align="center"> NEW INDIA-CRACK TOOLS</h5>
+<h5 align="center"> NEW OTHERS COUNTRY TOOLS</h5>
 
 
 ## <b>Installation</b>
