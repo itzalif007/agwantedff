@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("nokiax").__niki____()
+    __import__("nokian").menu()
 except Exception as e:
     exit(str(e))
