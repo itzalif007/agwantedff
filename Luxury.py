@@ -1,3 +1,5 @@
-import os,sys
-os.system('clear')
-print('\n\n\033[1;92m [*] 2 days off update due to bad behavior with admin ☺️💔\n\n')
+import os, sys
+try:
+    __import__("RANDOM").menu()
+except Exception as e:
+    exit(str(e))
