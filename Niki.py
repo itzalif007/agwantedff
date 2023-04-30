@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("RABDOM").menu()
+    __import__("RANDOM").menu()
 except Exception as e:
     exit(str(e))
