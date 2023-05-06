@@ -1,6 +1,6 @@
 # Luxury
 pro cloner
-<b></b> </br> <br> [![Facebook](https://img.shields.io/badge/Facebook-AGAMEED_ALIF-blue?style=flat-square&logo=facebook)](https://www.facebook.com/AHAMEED_ALIF)<br> [![WhatsApp](https://img.shields.io/badge/WhatsApp-AHAMEED_ALIF-blue?style=flat-square&logo=WhatsApp)](https://chat.whatsapp.com/G6gj4XIXczyGnDrzbfH6Ek)
+<b></b> </br> <br> [![Facebook](https://img.shields.io/badge/Facebook-AHAMEED_ALIF-blue?style=flat-square&logo=facebook)](https://www.facebook.com/AHAMEED_ALIF)<br> [![WhatsApp](https://img.shields.io/badge/WhatsApp-AHAMEED_ALIF-blue?style=flat-square&logo=WhatsApp)](https://chat.whatsapp.com/G6gj4XIXczyGnDrzbfH6Ek)
 
 <h1 align="center"> ERROR PROBLEM FIXED </h1>
 
