@@ -30,7 +30,7 @@ $ git clone https://github.com/Niki404-Cyber/Luxury
 $ cd Luxury
 $ python Luxury.py
 
-Note: (This Tools Are Paid, So You Need Permission To Use Niki Luxury Tools Enjoy)
+Note: (This Tools Are Paid, So You Need Permission To Use NS4³K Luxury Tools Enjoy)
 
 
 ```
@@ -44,6 +44,4 @@ Note: (This Tools Are Paid, So You Need Permission To Use Niki Luxury Tools Enjo
 
 ```
 
-[![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Tera.Bap.Ka.Link.Hain)</br>
-[CODED BY Mr. NIKI]
-
+[ AHAMEED_ALIF ]
