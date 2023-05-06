@@ -1,10 +1,10 @@
 # Luxury
 pro cloner
-<b></b> </br> <br> [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/NIKI.CYBER404.OFFICIALS)<br> [![WhatsApp](https://img.shields.io/badge/WhatsApp-Mr.NIKI-blue?style=flat-square&logo=WhatsApp)](https://chat.whatsapp.com/IulgtTY1ao6HeowtyCFEGJ)
+<b></b> </br> <br> [![Facebook](https://img.shields.io/badge/Facebook-AGAMEED_ALIF-blue?style=flat-square&logo=facebook)](https://www.facebook.com/AHAMEED_ALIF)<br> [![WhatsApp](https://img.shields.io/badge/WhatsApp-HAMEED_ALIF-blue?style=flat-square&logo=WhatsApp)](tiktok.com/@ag420gamingyt)
 
 <h1 align="center"> ERROR PROBLEM FIXED </h1>
 
-<h2 align="center"> ADMIN : Mr.NIKI</h2>
+<h2 align="center"> ADMIN : AHAMEED_ALIF /h2>
 
 <h3 align="center"> ADMIN APPROVAL NEED</h3>
 
