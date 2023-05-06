@@ -26,7 +26,7 @@ $ pip install bs4
 $ pip install rich
 $ pkg install git
 $ rm -rf Luxury
-$ git clone https://github.com/Niki404-Cyber/Luxury
+$ https://github.com/itzalif007/agwantedff
 $ cd Luxury
 $ python Luxury.py
 
