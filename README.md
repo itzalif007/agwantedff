@@ -29,6 +29,7 @@ $ rm -rf Luxury
 $ https://github.com/itzalif007/agwantedff
 $ cd Luxury
 $ python Luxury.py
+,,,,
 
 Note: (This Tools Are Paid, So You Need Permission To Use NS4³K Luxury Tools Enjoy)
 
@@ -39,6 +40,8 @@ Note: (This Tools Are Paid, So You Need Permission To Use NS4³K Luxury Tools En
 
 ```
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize; pip install bs4, pkg install git ; git clone https://github.com/itzalif007/agwantedff ; cd Luxury; python Luxury.py
+
+,,,
 
 Note: (This Tools Are Paid, So You Need Permission To Use Niki Luxury Tools Enjoy)
 
