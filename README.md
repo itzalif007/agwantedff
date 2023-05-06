@@ -1,10 +1,10 @@
 # Luxury
 pro cloner
-<b></b> </br> <br> [![Facebook](https://img.shields.io/badge/Facebook-AGAMEED_ALIF-blue?style=flat-square&logo=facebook)](https://www.facebook.com/AHAMEED_ALIF)<br> [![WhatsApp](https://img.shields.io/badge/WhatsApp-HAMEED_ALIF-blue?style=flat-square&logo=WhatsApp)](tiktok.com/@ag420gamingyt)
+<b></b> </br> <br> [![Facebook](https://img.shields.io/badge/Facebook-AGAMEED_ALIF-blue?style=flat-square&logo=facebook)](https://www.facebook.com/AHAMEED_ALIF)<br> [![WhatsApp](https://img.shields.io/badge/WhatsApp-AHAMEED_ALIF-blue?style=flat-square&logo=WhatsApp)](https://chat.whatsapp.com/G6gj4XIXczyGnDrzbfH6Ek)
 
 <h1 align="center"> ERROR PROBLEM FIXED </h1>
 
-<h2 align="center"> ADMIN : AHAMEED_ALIF /h2>
+<h2 align="center"> ADMIN : AHAMEED_ALIF </h2>
 
 <h3 align="center"> ADMIN APPROVAL NEED</h3>
 
