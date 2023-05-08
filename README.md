@@ -31,7 +31,7 @@ $ cd Luxury
 $ python Luxury.py
 ,,,,
 
-Note: (This Tools Are Paid, So You Need Permission To Use NS4³K Luxury Tools Enjoy)
+Note: (This Tools Are Paid, So You Need Permission To Use Niki Luxury Tools Enjoy)
 
 
 ```
@@ -52,4 +52,6 @@ pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip instal
 
 
 
-[ AHAMEED_ALIF ]
+[![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Tera.Bap.Ka.Link.Hain)</br>
+[CODED BY Mr. NIKI]
+
